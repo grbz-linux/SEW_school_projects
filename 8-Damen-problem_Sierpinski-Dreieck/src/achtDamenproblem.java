@@ -1,5 +1,9 @@
 import java.util.Arrays;
 
+/**
+* @author Ali Can Gürbüz
+*
+*/
 public class achtDamenproblem {
     public static void main(String[] args) {
         spielfeld spielfeld = new spielfeld();
